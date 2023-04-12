@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Introduction](#Introduction)
-* [Data Cleaning and transformation](#Data Cleaning)
-* [Data Visualization](#Data Visualization)
+* [Data Cleaning and transformation](#DataCleaning)
+* [Data Visualization](#DataVisualization)
 * [Recommendations](#Recommendations)
 
 ## Introduction
