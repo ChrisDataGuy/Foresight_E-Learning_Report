@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Introduction](#Introduction)
-* [Data Cleaning and transformation](#DataCleaning)
-* [Data Visualization](#DataVisualization)
+* [Data Cleaning and transformation](#Data_Cleaning)
+* [Data Visualization](#Data_Visualization)
 * [Recommendations](#Recommendations)
 
 ## Introduction
@@ -18,7 +18,7 @@ They can extract some Data from the app that includes:
 ### Business Task
 Foresight BI hopes to use the Data to improve Student Engagement, Marketing as well Improve the course curriculum.
 
-## Data Cleaning
+## Data_Cleaning
 
 Tools used for data cleaning include:
 * Microsoft Excel
@@ -80,7 +80,7 @@ AFTER
 * `Total number of courses = DISTINCTCOUNT(Courses[Course ID])` measure for total number of courses.
 * `Total Number of Users = DISTINCTCOUNT(Enrollments[User ID])` measure for total of users enrolled.
 
-## Data Visualization
+## Data_Visualization
 Data visualization was done in Microsoft Power BI.
 
 Data modelling was done prior to data visualization on Microsost Power BI, using the foreign keys in our fact tables (Enrollments, Quiz Score Summary) and the primary keys in our dimension tables (Users, Courses, QuizDim).
