@@ -89,38 +89,39 @@ To answer the business question, the following visuals were used to answer the s
 
 ### What are the top KPIs?
 
-![kpis](https://user-images.githubusercontent.com/109347195/231446876-95506a46-e723-4613-a5ae-4aaedd66af2c.JPG)
+![KPIs](https://user-images.githubusercontent.com/109347195/233841628-8ec328c8-a81e-4a6e-8ff5-af4ec54cb4e9.JPG)
+
 Using the measures, it was derived that the E-learning data had a total of 27 courses, 1,236 Unique enrolled users, an average course duration of 21.06 hours and an average course completion rate of 45%.
 
 ### Course enrollment trend:
 
-![enrollments by month](https://user-images.githubusercontent.com/109347195/231447648-2bc1c469-4f0b-4f5c-902c-2558c95534ea.JPG)
+![COURSE ENROLLMENT](https://user-images.githubusercontent.com/109347195/233841644-7e9f8d91-823d-4503-abd4-e8b3ce200044.JPG)
 
 The data showed that there was high course enrollments in January, followed by a drop in February, and then steadied trend between March and July, before another Spike in August, then a steadied drop till December. This theme was not consistent across all the years, in 2021 enrollments peaked in January and October, and was lowest in December, March and April. In 2022, there was only one peak, which was in August. When viewed by year, Enrollments has been on a continuous high from inception in 2020 till October 2022, as shown below:
 
-![enroll by year](https://user-images.githubusercontent.com/109347195/231448806-76d803e8-a5b1-497d-a609-2b066b61690c.JPG)
+![course enrollment - YEAR](https://user-images.githubusercontent.com/109347195/233841706-588dd28f-4d0d-48b1-8354-f73ed7171d1d.JPG)
 
 ### Enrollment by Course type:
 
-![course type](https://user-images.githubusercontent.com/109347195/231450122-c151ab55-1e3a-472e-828c-2fe328c8fa0e.JPG)
+![COURSE TYPE](https://user-images.githubusercontent.com/109347195/233841727-9f81baf0-38ce-444d-a700-7f8d02ca144f.JPG)
 
 Online self paced courses had the highest enrollments - 1,358 users enrolled and the most enrolled course for this course type was Introduction to Power BI. 
 
 ### Course type completion rate:
 
-![course type completion](https://user-images.githubusercontent.com/109347195/231451503-d85587d4-4ed0-4f54-8800-a0841f55853f.JPG)
+![COURSE COMPLETION](https://user-images.githubusercontent.com/109347195/233841749-0a0ce2fb-6f55-4b30-bb57-7716db8d0c58.JPG)
 
 Online Test and Survey came out top for course completion rate at 96% and 64% respectively, this was in no doubt expected as they needed just a one-time participarion to attain 100% completion rate, however, between the two more comprehensive course types - Online Self paced and onlive live, online live came out top with 46% completion rate while online self paced had 43% completion rate. User behavior, User preference, Course Curriculum model could have played a role in this.
 
 ### Course duration vs Course Completion Rate:
 
-![duration vs completion](https://user-images.githubusercontent.com/109347195/231455048-7f9405ca-a8de-45ef-9733-b39ef7f646e6.JPG)
+![COURSE DURATION VS](https://user-images.githubusercontent.com/109347195/233841764-02243234-5bbb-4d64-bdab-0341f2c9326c.JPG)
 
 I tried to find out if the course duration had an influence on the course completion rate, this was not the case with the comprehensive course types - Online live and Online self-paced, while online live had the higher average course duration it also has the higher average course completion rate. User behavior can be faulted for this, as online live courses are instructor led and paced, while online self paced are user-paced.
 
 ### Quiz score
 
-![quiz score chart](https://user-images.githubusercontent.com/109347195/231456842-4164a417-e03e-4c06-a2e3-d83f730821f6.JPG)
+![QUIZ SCORE](https://user-images.githubusercontent.com/109347195/233841785-2540f92c-b29f-4338-b42f-ec565601810f.JPG)
 
 The Check your knowledge quiz in the Intro to Power BI course had the highest number of engagements and average quiz score.
 
@@ -134,7 +135,7 @@ The Check your knowledge quiz in the Intro to Power BI course had the highest nu
 
 ### Tool Tip
 
-![tool tip](https://user-images.githubusercontent.com/109347195/231460871-7677e2bf-a8ea-461d-8af6-a4c0a89c547c.JPG)
+![TOOLTIP](https://user-images.githubusercontent.com/109347195/233841802-9a260633-5c94-4702-95f1-3cb5625dcf82.JPG)
 
 A tool tip page that filtered by Course type and Enrollment date (month hierarchy) was created to provide added context on the top course for that category and that month. This can be seen when the mouse is hovered over the data point.
 
